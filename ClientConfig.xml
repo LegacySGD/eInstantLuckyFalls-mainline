@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Lucky Falls COM" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="LuckyFalls" enableFreeSpin="Y" clientversion="1.0" gameId="300-2084-1"/>
+	<GameClient name="Lucky Falls COM" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="LuckyFalls" enableFreeSpin="Y" clientversion="1.0" gameId="300-2084-1"/>
+	<GameClient name="Lucky Falls COM" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="LuckyFalls" enableFreeSpin="Y" clientversion="1.0" gameId="300-2084-1"/>
+</ClientConfig>
